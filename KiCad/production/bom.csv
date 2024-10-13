@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A2,Arduino_Nano,1,Arduino Nano,
+J1,DIP-14_W7.62mm,1,MCP4251,
+"J2, J6",PinSocket_1x01_P2.54mm_Vertical,2,SparkGapNegative,
+"J3, J7",PinSocket_1x04_P2.54mm_Vertical,2,GND,
+J4,PinHeader_1x03_P2.54mm_Horizontal,1,P2 Pot,
+J5,PinHeader_1x03_P2.54mm_Horizontal,1,P1 Pot,
+"Q1, Q2",TO-220-3_Horizontal_TabDown,2,GDS,
